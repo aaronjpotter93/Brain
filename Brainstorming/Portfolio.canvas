@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ac89cd58a76096c8","type":"link","url":"https://aaronpotter6.wordpress.com/","x":-1440,"y":96,"width":920,"height":584},
+		{"id":"234d1ec6ec1e16ba","type":"link","url":"http://18.237.197.184:8081/mainscreen","x":-400,"y":96,"width":540,"height":584}
+	],
+	"edges":[]
+}

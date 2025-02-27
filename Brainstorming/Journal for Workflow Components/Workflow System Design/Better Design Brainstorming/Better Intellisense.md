@@ -1,0 +1,1 @@
+A script that monitors keystrokes and offers autocomplete suggestions to mentions of content that exists elswhere in the vault. and the autocomplete triggers wrapping the phrase in an embedded link. and pulls the content from that other note here so it can still live in its original domain but callouts to it can exist anywhere in the vault.

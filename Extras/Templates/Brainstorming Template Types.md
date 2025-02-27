@@ -1,0 +1,6 @@
+Template Types maybe makes use of templator defaults based on folder?
+
+I'm using obsidian as a central place for my information collection. there are different types of collections, there will always be overlap and that overlap between types should be designed for as well. imagine types and interfaces and inheritance when building templates:
+- Learning Notes: from content areas from personal learning, school driven, or professional development driven. this template will have different linking, storing, metadata and function.
+- Brainstorming & Design: 
+- Projects: this is most likely going to be a moc, or an interface, where all of its content is actually just links to the other types that handle the interactions I have with this project, between content i studied and how much of this project deals with those ideas and visa versa, as well as brainstorming & design, project planning, and task breakdown and planning in daily journals. the documentation of the project. projects might need to be a parent interface to all other types because a project is the culmination of everything that obsidian is going to be used for: brainstorming, planning, designing, learning, discovering, building, debugging, iterating, references for, and needed references of, mapping out competencies in multidisciplines of mastery. 

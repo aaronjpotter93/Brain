@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"bf103ef514f346d6","type":"text","text":"Obsidian Notes","x":356,"y":-110,"width":164,"height":60},
+		{"id":"50ddde68d0c39ad3","type":"file","file":"Brainstorming/Portfolio.canvas","x":-20,"y":-140,"width":140,"height":120},
+		{"id":"fdcda02b9ca03396","x":313,"y":-20,"width":250,"height":200,"type":"text","text":"Make Obsidian a REST Resource that adheres to conventions of SQL for querying that could be used by Retool and other Clients to represent my vault publicly"}
+	],
+	"edges":[
+		{"id":"0a89f0b1bd4f62c9","fromNode":"50ddde68d0c39ad3","fromSide":"right","toNode":"bf103ef514f346d6","toSide":"left","label":"Rest Resource"}
+	]
+}

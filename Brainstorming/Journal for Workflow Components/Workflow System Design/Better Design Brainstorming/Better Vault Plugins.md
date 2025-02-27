@@ -1,0 +1,9 @@
+- [ ] templater for automation
+- [ ] dataview for querying 
+- [ ] quickadd for automation
+- [ ] tasks for projects
+- [ ] kanban for projects
+- [ ] calendar for daily notes
+- [ ] breadcrumbs for hierarchy 
+- [ ] spaced repetition for reinforced learning and retention of information relevant to current content areas being explored (informed by another system that tracks my knowledge base, and amount of exposure)
+- [ ] 

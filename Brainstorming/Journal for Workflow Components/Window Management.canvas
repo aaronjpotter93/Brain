@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cf986d5a106205bd","type":"text","text":"Neovim :SiNeovim:","x":-340,"y":-160,"width":250,"height":60},
+		{"id":"937de417df8d81d0","type":"text","text":"Optional Middleman :TiHandMiddleFinger:","x":-80,"y":-160,"width":250,"height":60},
+		{"id":"cd276d26a6ce2291","type":"text","text":"Rendered :TiLivePhoto:","x":180,"y":-160,"width":250,"height":60},
+		{"id":"a3abf3b9b6efb91c","type":"text","text":"Obsidian :SiObsidian:","x":-80,"y":-80,"width":140,"height":60},
+		{"id":"54efa9cc78bd7cb7","type":"text","text":"Live Reference :LiDatabaseZap:","x":-80,"y":-240,"width":180,"height":60},
+		{"id":"ca9ad3a13020e65e","type":"text","text":"Live Reference :LiDatabaseZap:","x":-340,"y":-240,"width":180,"height":60}
+	],
+	"edges":[]
+}

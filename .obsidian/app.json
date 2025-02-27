@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "Extras/Resources/",
+  "propertiesInDocument": "source",
+  "defaultViewMode": "preview",
+  "showInlineTitle": true
+}

@@ -1,0 +1,3 @@
+- [ ] free domain registration!!!!! But it is down at the moment so check back later to get one going!! [Freenom - A Name for Everyone](https://www.freenom.com/en/index.html?lang=en)
+- [ ] deploy d287 to elastic beanstalk
+- [ ] get project personal website started

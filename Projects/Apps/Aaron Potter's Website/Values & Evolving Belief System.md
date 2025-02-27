@@ -1,0 +1,28 @@
+- Evolving Belief System (probably could end up being a whole ass book)
+		- Was raised Christian -- beliefs strained -- values stuck
+		- Take mental health seriously, go to therapy. 
+		- Healing isn't inevitable. It must be fought for.
+		- Exploring the merits of polar philosophies' mappings to lived experiences.
+		- Knowledge is power only so long as its shared effectively with the whole of the system. like a single cell in body that discovers an attack on the system, the bodies' survival and healing depends on the channels of communication.
+		- System's that don't integrate with and respect the voices of their many parts will leave gaps of vulnerabilities where threats will inevitably bring the whole of it to their end.
+		- The cause worth fighting for is not to dismantle sicknesses at the cost of the whole, but to dismantle only that which threatens all having a seat (or honestly represented) at the table where decisions are made.
+		- System's many parts must have their channels of communication prepared for and protected. 
+		- The great history of life's evolution towards becoming better suited for and prepared for infinitely changing environments and extinction events, shows that cooperation (even when accidental) was the key to going from single celled organisms to complex life forms. The path to a future of human kind is going to be determined by this great system of parts finding ways to cooperate. finding the right time for the vulnerability required to make cooperative leaps and advancements in suitability for the changing state and conditions needed to survive under, and finding the right times to dismantle threats to survival. there is no rule yet discovered that i'm aware of for knowing when being vulnerable or defensive/offensive is right. But survival is no longer primal only, but higher order faculties. recognizing the systems of life that we are a part of.
+		- Optimistic Nihilist
+			- 80,000 Hours
+			- Effective Altruism
+			- Solar Punk
+			- Secular Humanist
+			- Exercises in Empathy
+				- In all things, listen for understanding, not just for accuracy
+					- Logical Imperative & Emotional Precidence
+						- Value logic but not more then emotion. Recognize appeals made to one that doesn't respect the other.
+				- Systems of Life
+	- If I had Money for Tattoos 
+		- Kurzgesagt Optimistic Nihilist 
+		- Tears of the Kingdom
+		- Systems of life, language of life, abstraction, progress
+	- Voices that have moved me
+		- Past
+		- Present
+		- Fictional

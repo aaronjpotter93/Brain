@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ec0e831508a16b7a","type":"text","text":":TiProgressCheck: Section Exercises Note","x":-160,"y":-22,"width":420,"height":50,"color":"#282828"},
+		{"id":"4d2cf880d315b19b","type":"text","text":"1. Algebra and Pre-Calculus","x":-151,"y":28,"width":951,"height":432},
+		{"id":"5decba1cee4fbd78","type":"file","file":"Extras/Resources/Images/1.1 Functions and function notation.png","x":-72,"y":120,"width":844,"height":311},
+		{"id":"e852ed75a2671ba8","type":"file","file":"Extras/Resources/Images/Term Classes.png","x":-151,"y":-233,"width":951,"height":211},
+		{"id":"396306f18390ef4b","type":"file","file":"Extras/Resources/Images/Program Progress.png","x":245,"y":-500,"width":555,"height":238},
+		{"id":"59ba1fd49db0c092","type":"file","file":"Extras/Resources/Images/Term Progress.png","x":-160,"y":-500,"width":402,"height":238},
+		{"id":"f29e9e4148d07b22","type":"text","text":"1. Algebra and Pre-Calculus","x":-151,"y":480,"width":951,"height":280},
+		{"id":"cdfa9abb2e8a1cf3","type":"file","file":"Extras/Resources/Images/1.2 Domain and range.png","x":-100,"y":560,"width":872,"height":184}
+	],
+	"edges":[]
+}
