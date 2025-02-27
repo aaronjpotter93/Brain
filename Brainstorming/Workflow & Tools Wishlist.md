@@ -19,10 +19,10 @@ A system that serves the mind’s desire to explore ideas and information—one 
 
 My task is to find a combination of integrated tools that improve over time. I want a system that redefines itself, adapts, and sheds inefficiencies. Tooling lock-in is not an option, as it would limit adaptability. At the same time, I must rely on existing tools to avoid getting lost in the weeds of low-level thinking. The enablement of higher level abstraction is the aim.
 
-### Single Context Contains:
+### Single Context Contains Plugins that:
 
 - [ ] NotebookLM
-- [ ] Terminal
+- [ ] [Terminal](https://github.com/polyipseity/obsidian-terminal) (Ghostty Emulator, including my .zshrc, and $PATH)
 - [ ] Better Canvas
 	- [ ] Figma Jam features (bring to front, custom template components)
 	- [ ] Lucid Chart (ERD & UML Diagraming, import sql to generate relationships, export diagram as sql)
