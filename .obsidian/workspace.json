@@ -78,7 +78,7 @@
               "type": "markdown",
               "state": {
                 "file": "Learning/Developer Productivity/ThePrimeagen - Developer Productivity 2/My Implementation/runs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,11 +273,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9137beca876a9f06",
+  "active": "373672d77226ba32",
   "lastOpenFiles": [
-    "Learning/Developer Productivity/ThePrimeagen - Developer Productivity 2/Developer Productivity 2 MOC.md",
+    "Learning/Developer Productivity/ThePrimeagen - Developer Productivity 2/My Implementation/runs.md",
+    "Projects/Home Lab/Whats on my Laptop.md",
     "Projects/Home Lab/Home Lab.md",
     "Projects/Home Lab/PC Build.md",
+    "Learning/Developer Productivity/ThePrimeagen - Developer Productivity 2/Developer Productivity 2 MOC.md",
     "Dashboard.canvas",
     "Career/Job Search/Job Fairs/Idaho Job & Career Fair.md",
     "Career/Job Search/Job Fairs/General Elevator Pitch.md",
@@ -288,8 +290,6 @@
     "Brainstorming/Workflow & Tools Wishlist.md",
     "README 2.md",
     "README 1.md",
-    "Learning/Developer Productivity/ThePrimeagen - Developer Productivity 2/My Implementation/runs.md",
-    "Projects/Home Lab/Whats on my Laptop.md",
     "Journal/Wednesday, Feb 26th 2025.md",
     "Learning/Developer Productivity/ThePrimeagen - Developer Productivity 2/Lecture/Tmux.md",
     "Learning/Curricular Supplement/Cyber Warfare/Hack The Box/Academy/Skill Paths/Information Security Foundations/Skill Path - Information Security Foundations.md",

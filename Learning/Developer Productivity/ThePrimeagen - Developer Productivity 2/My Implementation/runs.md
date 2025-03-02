@@ -7,6 +7,15 @@ alias: environment portability
 parent: [[Developer Productivity 2 MOC]]
 
 # Windows
+:LiFolder: Applications/
+
+| Applications          | Note | Planned Use Cases                                       | :LiExternalLink:                  |
+| --------------------- | ---- | ------------------------------------------------------- | --------------------------------- |
+| :SiObsidian: Obsidian |      | second brain                                            | [Docs](https://help.obsidian.md/) |
+| :SiObsstudio: OBS     |      | screen recording and streaming software                 |                                   |
+| :SiDocker: Docker     |      | probably to pull functional apps i make for desktop use |                                   |
+| :SiDiscord: Discord   |      | chattin                                                 |                                   |
+
 ---
 # Linux
 :LiFolder: runs/
@@ -34,70 +43,48 @@ popd
 ```
 
 ## Runs
-%% 
-| CLI Tool                      | Command | Note                                   | :LiExternalLink:                                                            |
-| ----------------------------- | ------- | -------------------------------------- | --------------------------------------------------------------------------- |
-| :LiGitBranch: git             | git     | version control                        | [Docs](https://git-scm.com/docs)                                            |
-| :SiGithub: github cli         | gh      | remote repo provider                   | [Docs](https://cli.github.com/manual/)                                      |
-| ripgrep                       | rg      |                                        | [Docs](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)          |
-| pavucontrol                   |         |                                        | [Docs](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/) |
-| :LiClipboard: xclip           | xclip   |                                        | [Docs](https://manpages.ubuntu.com/manpages/bionic/man1/xclip.1.html)       |
-| :LiClipboard: xsel            | xsel    |                                        | [Docs](https://github.com/kfish/xsel)                                       |
-| :LiKeyboard: xdotool          | xdotool |                                        | [Docs](https://manpages.ubuntu.com/manpages/xenial/man1/xdotool.1.html)     |
-| :SiAutohotkey: sxhkd          |         | Simple X hotkey daemon                 | [Docs](https://github.com/baskerville/sxhkd)                                |
-| :LiClipboardPaste: greenclip  |         |                                        | [Docs](https://github.com/erebe/greenclip)                                  |
-| :TiJson: jq                   | jq      |                                        | [Docs](https://jqlang.org/manual/)                                          |
-| tldr                          | tldr    |                                        | [Docs](https://github.com/tldr-pages/tldr)                                  |
-| :RiScreenshot2Line:shutter    |         |                                        | [Docs](https://shutter-project.org/)                                        |
-| :SiPython: python3-pip        |         |                                        | [Docs](https://pip.pypa.io/en/stable/)                                      |
-| :SiPython: python3-setuptools |         |                                        | [Docs](https://setuptools.pypa.io/en/latest/)                               |
-| :SiPython: python3-dev        |         |                                        | [Docs](https://docs.python.org/3/extending/extending.html)                  |
-| :SiGnu: gpg                   |         |                                        | [Docs](https://www.gnupg.org/documentation/manuals/gnupg.pdf)               |
-| :LiPaintbrush: bat            | bat     | Modern alternative to cat              | [Docs](https://github.com/sharkdp/bat)                                      |
-| :LiPaintbrush: eza            | eza     | Modern alternative to ls               | [Docs](https://github.com/eza-community/eza)                                |
-| :LiAngry: thefuck             | thefuck | Corrects your previous console command | [Docs](https://github.com/nvbn/thefuck)                                     | 
 
-
- %%
-
-| Libraries                    | Command     | Note                                   | :LiExternalLink:                                                            |
-| ----------------------------- | ----------- | -------------------------------------- | --------------------------------------------------------------------------- |
-| :LiGitBranch: git             | git         | version control                        | [Docs](https://git-scm.com/docs)                                            |
-| :SiGithub: github cli         | gh          | remote repo provider                   | [Docs](https://cli.github.com/manual/)                                      |
+| GUI Applications      | Note | Planned Use Cases | :LiExternalLink:                  |
+| --------------------- | ---- | ----------------- | --------------------------------- |
+| :SiObsidian: Obsidian |      | second brain      | [Docs](https://help.obsidian.md/) |
+| :LiGhost: Ghostty     |      |                   |                                   |
+| :SiDocker: Docker     |      |                   |                                   |
 
 ---
 
-| CLI Tools                     | Command     | Note                                                | :LiExternalLink:                                                            |
-| ----------------------------- | ----------- | --------------------------------------------------- | --------------------------------------------------------------------------- |
-| :LiGitBranch: git             | git         | version control                                     | [Docs](https://git-scm.com/docs)                                            |
-| :SiGithub: github cli         | gh          | remote repo provider                                | [Docs](https://cli.github.com/manual/)                                      |
-| :LiFileSearch: ripgrep        | rg          | Fast alternative to grep                            | [Docs](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)          |
-| :LiAudioLines: pavucontrol    | pavucontrol | PulseAudio volume control GUI                       | [Docs](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/) |
-| :LiClipboard: xclip           | xclip       | Clipboard interaction                               | [Docs](https://manpages.ubuntu.com/manpages/bionic/man1/xclip.1.html)       |
-| :LiClipboard: xsel            | xsel        | Clipboard interaction (alternative)                 | [Docs](https://github.com/kfish/xsel)                                       |
-| :LiKeyboard: xdotool          | xdotool     | X input automation                                  | [Docs](https://manpages.ubuntu.com/manpages/xenial/man1/xdotool.1.html)     |
-| :SiAutohotkey: sxhkd          | sxhkd       | Simple X hotkey daemon                              | [Docs](https://github.com/baskerville/sxhkd)                                |
-| :LiClipboardPaste: greenclip  | greenclip   | Clipboard manager                                   | [Docs](https://github.com/erebe/greenclip)                                  |
-| :TiJson: jq                   | jq          | Command-line JSON processor                         | [Docs](https://jqlang.org/manual/)                                          |
-| :LiFileStack: tldr            | tldr        | Simplified man pages                                | [Docs](https://github.com/tldr-pages/tldr)                                  |
-| :RiScreenshot2Line:shutter    | shutter     | Screenshot tool                                     | [Docs](https://shutter-project.org/)                                        |
-| :SiPython: python3-pip        | pip3        | Python package installer                            | [Docs](https://pip.pypa.io/en/stable/)                                      |
-| :SiPython: python3-setuptools |             | Python package utilities                            | [Docs](https://setuptools.pypa.io/en/latest/)                               |
-| :SiPython: python3-dev        |             | Python development headers                          | [Docs](https://docs.python.org/3/extending/extending.html)                  |
-| :SiGnu: gpg                   | gpg         | GNU Privacy Guard (encryption)                      | [Docs](https://www.gnupg.org/documentation/manuals/gnupg.pdf)               |
-| :LiPaintbrush: bat            | bat         | Modern alternative to cat                           | [Docs](https://github.com/sharkdp/bat)                                      |
-| :LiPaintbrush: eza            | eza         | Modern alternative to ls                            | [Docs](https://github.com/eza-community/eza)                                |
-| :LiAngry: thefuck             | thefuck     | Corrects your previous console command              | [Docs](https://github.com/nvbn/thefuck)                                     |
-| :LiKeyRound: age              | age         | A simple, modern and secure file encryption tool.   | [Docs](https://github.com/FiloSottile/age)                                  | 
-| :TiShieldLock: sops           | sops        | A simple and flexible tool for managing secrets.    | [Docs](https://github.com/getsops/sops)                                     |
-| :RaFairy: navi                | navi        | An interactive cheatsheet tool for the command-line | [Docs](https://github.com/denisidoro/navi)                                  |
-| :TiSql: mysql                 | mysql       | structured query language db server                 | [Docs](https://dev.mysql.com/doc/refman/8.4/en/)                            |
+| CLI Tools                     | Command     | Note                                                | Planned Use Cases | :LiExternalLink:                                                            |
+| ----------------------------- | ----------- | --------------------------------------------------- | ----------------- | --------------------------------------------------------------------------- |
+| :LiGitBranch: git             | git         | version control                                     |                   | [Docs](https://git-scm.com/docs)                                            |
+| :SiGithub: github cli         | gh          | GitHub CLI interaction                              |                   | [Docs](https://cli.github.com/manual/)                                      |
+| :LiFileSearch: ripgrep        | rg          | Fast alternative to grep                            |                   | [Docs](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)          |
+| :LiAudioLines: pavucontrol    | pavucontrol | PulseAudio volume control GUI                       |                   | [Docs](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/) |
+| :LiClipboard: xclip           | xclip       | Clipboard interaction                               |                   | [Docs](https://manpages.ubuntu.com/manpages/bionic/man1/xclip.1.html)       |
+| :LiClipboard: xsel            | xsel        | Clipboard interaction (alternative)                 |                   | [Docs](https://github.com/kfish/xsel)                                       |
+| :LiKeyboard: xdotool          | xdotool     | X input automation                                  |                   | [Docs](https://manpages.ubuntu.com/manpages/xenial/man1/xdotool.1.html)     |
+| :SiAutohotkey: sxhkd          | sxhkd       | Simple X hotkey daemon                              |                   | [Docs](https://github.com/baskerville/sxhkd)                                |
+| :LiClipboardPaste: greenclip  | greenclip   | Clipboard manager                                   |                   | [Docs](https://github.com/erebe/greenclip)                                  |
+| :TiJson: jq                   | jq          | Command-line JSON processor                         |                   | [Docs](https://jqlang.org/manual/)                                          |
+| :LiFileStack: tldr            | tldr        | Simplified man pages                                |                   | [Docs](https://github.com/tldr-pages/tldr)                                  |
+| :RiScreenshot2Line:shutter    | shutter     | Screenshot tool                                     |                   | [Docs](https://shutter-project.org/)                                        |
+| :SiPython: python3-pip        | pip3        | Python package installer                            |                   | [Docs](https://pip.pypa.io/en/stable/)                                      |
+| :SiPython: python3-setuptools |             | Python package utilities                            |                   | [Docs](https://setuptools.pypa.io/en/latest/)                               |
+| :SiPython: python3-dev        |             | Python development headers                          |                   | [Docs](https://docs.python.org/3/extending/extending.html)                  |
+| :SiGnu: gpg                   | gpg         | GNU Privacy Guard (encryption)                      |                   | [Docs](https://www.gnupg.org/documentation/manuals/gnupg.pdf)               |
+| :LiPaintbrush: bat            | bat         | Modern alternative to cat                           |                   | [Docs](https://github.com/sharkdp/bat)                                      |
+| :LiPaintbrush: eza            | eza         | Modern alternative to ls                            |                   | [Docs](https://github.com/eza-community/eza)                                |
+| :LiAngry: thefuck             | thefuck     | Corrects your previous console command              |                   | [Docs](https://github.com/nvbn/thefuck)                                     |
+| :LiKeyRound: age              | age         | A simple, modern and secure file encryption tool.   |                   | [Docs](https://github.com/FiloSottile/age)                                  |
+| :TiShieldLock: sops           | sops        | A simple and flexible tool for managing secrets.    |                   | [Docs](https://github.com/getsops/sops)                                     |
+| :RaFairy: navi                | navi        | An interactive cheatsheet tool for the command-line |                   | [Docs](https://github.com/denisidoro/navi)                                  |
+| :TiSql: mysql                 | mysql       | structured query language db server                 |                   | [Docs](https://dev.mysql.com/doc/refman/8.4/en/)                            |
 
 ---
 
-| Projects                | Note  | :LiExternalLink:                         | 
-| ------------------- | ----- | ---------------------------------------- |
-| :SiPioneerdj: Mixxx | Notes | [Docs](https://github.com/mixxxdj/mixxx) |
+| Projects                        | Note                           | :LiExternalLink:                                  |
+| ------------------------------- | ------------------------------ | ------------------------------------------------- |
+| :SiPioneerdj: Mixxx             | FOSS DJ Software               | [Docs](https://github.com/mixxxdj/mixxx)          |
+| :TiBrandMinecraft: MineFortress | FOSS Minecraft RTS MOD         | [Docs](https://github.com/remmintan/minefortress) | 
+| :RiMoneyDollarBoxLine: Badget   | FOSS Copilot Money Alternative | [Docs](https://github.com/Codehagen/Badget)                                                  |
 
 ---
 ## NVM, Node.js, NPM

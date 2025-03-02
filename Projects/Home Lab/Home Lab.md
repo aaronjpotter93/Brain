@@ -3,6 +3,10 @@ status: active
 file_type: project
 ---
 
+#### PC Use Cases
+:SiWindowsxp: Windows Partition | Casual Use | Gaming
+:SiUbuntu: Linux Partition | Dev Use | Non GUI 10x dev workflows
+:RiAppleFill: MacOS | Dev Use | GUI based dev workflows & ML Training
 
 #### Hardware Resources
 | Model | Capacity | Type| Planned Use | Current Use |
