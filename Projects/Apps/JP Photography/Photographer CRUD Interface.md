@@ -70,9 +70,9 @@ Goal: get basic functionality down to have a usable tool
 
 ##### Features:
 - one page:
-	- [ ] Directory CRUD 📅 2025-02-27
-	- [ ] Check size of upload and check if bucket has enough space to stay in free tier 📅 2025-02-27
-	- [ ] Thumbnail Previews 📅 2025-02-27
+	- [ ] Directory CRUD 📅 2025-03-06
+	- [ ] Check size of upload and check if bucket has enough space to stay in free tier 📅 2025-03-06
+	- [x] Thumbnail Previews 📅 2025-02-27 ✅ 2025-02-27
 %% ##### Stack:
 - spring boot
 - thymleaf

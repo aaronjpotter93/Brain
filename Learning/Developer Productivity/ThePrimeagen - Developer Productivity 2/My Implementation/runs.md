@@ -88,8 +88,8 @@ popd
 | :LiPaintbrush: bat            | bat         | Modern alternative to cat                           | [Docs](https://github.com/sharkdp/bat)                                      |
 | :LiPaintbrush: eza            | eza         | Modern alternative to ls                            | [Docs](https://github.com/eza-community/eza)                                |
 | :LiAngry: thefuck             | thefuck     | Corrects your previous console command              | [Docs](https://github.com/nvbn/thefuck)                                     |
-| :LiKeyRound: age              |             |                                                     |                                                                             |
-| :TiShieldLock: sops           |             |                                                     |                                                                             |
+| :LiKeyRound: age              | age         | A simple, modern and secure file encryption tool.   | [Docs](https://github.com/FiloSottile/age)                                  | 
+| :TiShieldLock: sops           | sops        | A simple and flexible tool for managing secrets.    | [Docs](https://github.com/getsops/sops)                                     |
 | :RaFairy: navi                | navi        | An interactive cheatsheet tool for the command-line | [Docs](https://github.com/denisidoro/navi)                                  |
 | :TiSql: mysql                 | mysql       | structured query language db server                 | [Docs](https://dev.mysql.com/doc/refman/8.4/en/)                            |
 

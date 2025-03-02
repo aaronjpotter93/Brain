@@ -30,8 +30,8 @@ Prep Work:
 - [x] Wipe all hdd's and ssd's from dad's pc ✅ 2025-02-19
 
 Reconstruction:
-- [ ] Clean out old pc 📅 2025-02-27
-- [ ] remove parts I want to keep 📅 2025-02-27
+- [x] Clean out old pc 📅 2025-02-27 ✅ 2025-02-27
+- [x] remove parts I want to keep 📅 2025-02-27 ✅ 2025-02-27
 - [ ] order new ssd enclosure 📅 2025-02-26
 - [ ] enclose ssd 📅 2025-03-03
 - [ ] migrate all my data to these drives 📅 2025-02-27

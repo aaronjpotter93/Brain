@@ -30,7 +30,7 @@ actions:
 ## Table of Contents
 ### Section
 - [x] Intro 📅 2025-02-23 ✅ 2025-02-24
-- [ ] Your Env 📅 2025-02-25 
+- [x] Your Env 📅 2025-02-25 ✅ 2025-02-27
 - [ ] Navigation 📅 2025-02-27
 - [ ] Tools 📅 2025-02-27 
 - [ ] Terminal 📅 2025-02-28 
